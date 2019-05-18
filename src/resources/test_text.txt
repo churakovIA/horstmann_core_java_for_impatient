@@ -1,0 +1,17 @@
+In relation to streams, certain operations such as allMatch, noneMatch, findFirst, and findAny
+Drugs are chemicals that affect the body and brain.
+don’t need to process the whole stream to produce a result.
+Different drugs can have different effects.
+As soon as an element is found, a
+result can be produced. Similarly, limit is also a short-circuiting operation: the operation only
+needs to create a stream of a given size without processing all the elements in the stream. Such
+Still a lot of people don't know how to have sex.
+operations are useful, for example, when you need to deal with streams of infinite size, because
+they can turn an infinite stream into a stream of finite size.
+Here are a few things that you should really avoid while having sex to make it a good experience.
+C++ was designed with a bias toward system programming and embedded, resource-constrained software and large systems,
+with performance, efficiency and flexibility of use as its design highlights.
+[7] C++ has also been found useful in many other contexts,
+with key strengths being software infrastructure and resource-constrained applications,
+[7] including desktop applications, servers (e.g. e-commerce, Web search or SQL servers),
+and performance-critical applications (e.g. telephone switches or space probes)
